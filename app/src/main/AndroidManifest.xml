@@ -14,6 +14,30 @@
         android:theme="@style/Theme.TechLab_MobileProject"
         tools:targetApi="31">
         <activity
+            android:name=".Oracion"
+            android:exported="false" />
+        <activity
+            android:name=".Vocal"
+            android:exported="false" />
+        <activity
+            android:name=".Resta"
+            android:exported="false" />
+        <activity
+            android:name=".Suma"
+            android:exported="false" />
+        <activity
+            android:name=".Numero"
+            android:exported="false" />
+        <activity
+            android:name=".Matematica"
+            android:exported="false" />
+        <activity
+            android:name=".Lenguaje"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
