@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/captura_de_pantalla__209__1" />
+        app:srcCompat="@drawable/logopng" />
 
     <ImageView
         android:id="@+id/imageView11"
@@ -69,7 +69,7 @@
         app:layout_constraintHorizontal_bias="0.878"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/texMat"
-        app:srcCompat="@drawable/image__4_" />
+        app:srcCompat="@drawable/_23" />
 
     <TextView
         android:id="@+id/texNum"
@@ -98,7 +98,7 @@
         app:layout_constraintHorizontal_bias="0.89"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imgNum"
-        app:srcCompat="@drawable/suma" />
+        app:srcCompat="@drawable/sum" />
 
     <TextView
         android:id="@+id/texSuma"
